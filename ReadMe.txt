@@ -1,30 +1,36 @@
-Bootstrap 4 Portfolio Theme for Developers
+Landed by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-Theme name:
-=======================================================================
-Developer
 
-Theme version:
-=======================================================================
-v2.1
+A dark, slick, modern, responsive, adjective-drenched design built around an extremely
+dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
+of mine with a similarish feel/flow, only this time I took it waaaaaay further and
+actually made it multipurpose (versus copping out and making it a one pager like I
+did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
+its Sass sources.
 
-Release Date:
-=======================================================================
-14 March 2019
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Author: 
-=======================================================================
-Xiaoying Riley at 3rd Wave Media (https://themes.3rdwavemedia.com/)
+(* = Not included)
 
-Contact:
-=======================================================================
-Web: https://themes.3rdwavemedia.com/
-Email: themes@3rdwavemedia.com
-Twitter: @3rdwave_themes
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
-License: 
-=======================================================================
-This template is free under the Creative Commons Attribution 3.0 License.
-https://creativecommons.org/licenses/by/3.0/
+AJ
+n33.co @n33co dribbble.com/n33
 
-If you'd like to use the template without the attribution, you can check out our commercial license options via our website: https://themes.3rdwavemedia.com/
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		skel (getskel.com)
