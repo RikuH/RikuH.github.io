@@ -560,6 +560,11 @@
     height: 280px;
     width: 280px;
 }
+
+.sections{
+    float: left;
+    margin-left: 15%;
+}
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
