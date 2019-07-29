@@ -1,0 +1,10 @@
+Whenever you would like to make changes to your created portfolio repository, 
+make them locally and push the modifications to your remote repository using the commands in step 7. 
+DO NOT make the changes directly to the pages.
+
+7. Change directory (cd) into the cloned repository and run
+the following commands respectively pressing enter after each
+
+git add -A
+git commit -m “Initial Commit”
+git push origin master
