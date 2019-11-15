@@ -9,7 +9,8 @@
 .profilePic{
     width: 40%;
     height: 40%;
-    border-radius: 200px;
+    float: left;  
+    border-radius: 10px;
 }
 
 article,
@@ -354,8 +355,9 @@ img {
 }
 
 .img-rounded {
-  border-radius: 6px;
+  border-radius: 10px;
   height: 250px;
+  width: 350px;
 }
 
 .img-thumbnail {
@@ -890,7 +892,6 @@ pre code {
 .col-xs-8,
 .col-sm-8,
 .col-md-8,
-.col-lg-8,
 .col-xs-9,
 .col-sm-9,
 .col-md-9,
@@ -911,6 +912,15 @@ pre code {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
+    
+}
+
+.col-lg-8 h1{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-top: 120px;
 }
 
 .col-xs-1,
